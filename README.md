@@ -13,4 +13,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](Terminal)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/visualstudio.svg"/>](VS)
 [<img align="left" alt="Manjaro" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/manjaro.svg"/>](manjarolinux)
-<br />
+<br /><br />
+
+[<img align="left" alt="Donate" width="200px" src="https://i.imgur.com/mAfvwsh.jpg"/>](https://razorpay.com/payment-button/pl_GG9eK9S2tqKxjw/view/)
