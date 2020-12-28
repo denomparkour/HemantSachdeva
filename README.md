@@ -16,3 +16,21 @@
 <br /><br />
 
 [<img align="left" alt="Donate" width="200px" src="https://i.imgur.com/mAfvwsh.jpg"/>](https://razorpay.com/payment-button/pl_GG9eK9S2tqKxjw/view/)
+<br /> <br />
+
+### Pinned
+<a href="https://github.com/HemantSachdeva/OOP-3rdSem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=OOP-3rdSem&show_owner=true)" />
+</a>
+<a href="https://github.com/HemantSachdeva/Ds-3rdSem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=Ds-3rdSem&show_owner=true)" />
+</a>
+<a href="https://github.com/HemantSachdeva/ITW-3rdSem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=ITW-3rdSem&show_owner=true)" />
+</a>
+<a href="https://github.com/HemantSachdeva/device_xiaomi_laurel_sprout">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=device_xiaomi_laurel_sprout&show_owner=true)" />
+</a>
+<a href="https://github.com/HemantSachdeva/MrBond007Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HemantSachdeva&repo=MrBond007Bot&show_owner=true)" />
+</a>
